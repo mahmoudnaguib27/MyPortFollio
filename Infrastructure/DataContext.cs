@@ -25,7 +25,7 @@ namespace Infrastructure
                 {
                     Id = Guid.NewGuid(),
                     Avatar = "avatar.jpg",
-                    FullName = "Mahmoud Naguib",
+                    FullName = "Mahmoud Naguib Rashad",
                     Profil = "Software Engineer / .NET Web Developer"
 
                 }
